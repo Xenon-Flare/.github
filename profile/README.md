@@ -1,11 +1,11 @@
-
+<div align="center">
   # XenonFlare
   **Catch SEO issues before they cost you traffic.**
 
   [![Register Now](https://img.shields.io/badge/Launch_App-Get_Started-white?style=for-the-badge)](https://xenonflare.com)
   [![Solutions](https://img.shields.io/badge/Solutions-Explore-blue?style=for-the-badge)](https://xenonflare.com/tools)
   [![Pricing](https://img.shields.io/badge/Pricing-View_Plans-emerald?style=for-the-badge)](https://xenonflare.com/pricing)
-
+</div>
   ---
 
 ## 🔗 Connect With Us
