@@ -1,4 +1,4 @@
-<div align="center">
+
   # XenonFlare
   **Catch SEO issues before they cost you traffic.**
 
