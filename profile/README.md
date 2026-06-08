@@ -14,7 +14,7 @@
 ## 🔗 Connect With Us
 
 *   **Official Website:** [xenonflare.com](https://xenonflare.com)
-*   **Developer Docs:** [docs.xenonflare.com](https://xenonflare.com/docs)
+*   **Developer Docs:** [xenonflare.com/docs](https://xenonflare.com/docs)
 *   **Customer Support:** [Contact Us](https://xenonflare.com/about)
 *   **Service Status:** [Real-time Monitoring](https://status.xenonflare.com)
 
